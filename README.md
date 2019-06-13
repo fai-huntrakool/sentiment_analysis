@@ -3,8 +3,7 @@
 Classify Netflix reviews into positive and negative buckets using LSTM architecture
 
 # Dependencies
-pytorch
-torch
+pytorch, torchtext
 
 # Reference
 Dataset: https://github.com/artem-oppermann/Sentiment-Analysis-of-Netflix-Reviews
