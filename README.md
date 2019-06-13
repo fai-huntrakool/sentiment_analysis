@@ -1,6 +1,6 @@
 ### Sentiment Analysis (Deep Learning)
 
-Classify Netflix reviews into positive and negative buckets using RNN (LSTM architecture)
+Classify Netflix reviews into positive or negative buckets using RNN (LSTM architecture)
 
 ### Dependencies
 pytorch, torchtext
